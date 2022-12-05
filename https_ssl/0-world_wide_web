@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 # connecting subdomains
 
 do_lookup_ip () {
